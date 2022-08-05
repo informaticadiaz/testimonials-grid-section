@@ -84,7 +84,7 @@ img {
   border-radius: 20px;
   padding: 40px;
 }
-@media (min-width: 376px) {
+@media (min-width: 576px) {
   img {
     width: 2vw;
     float: left;
